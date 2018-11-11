@@ -1,0 +1,13 @@
+- bats can see shapes
+	-invisible shapes and click to make round waves going out from mouse to reveal shapes
+	-try to guess shape
+	-different modes: 
+		-shows more of shape the more you guess 
+		-only shows part just revealed for a few seconds
+		
+- 3D pattern generator
+	-can choose colors and type of pattern
+	
+***** - crown shyness
+			-set number of trees
+			-can change distance away and maybe camera angle
